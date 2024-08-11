@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    margin: 30px; 
+    /* height: 80vh; */
+    /* border-radius: 10px; */
+    /* border: 2px solid black; */
+}
+
+#mnemonicDisplay{
+ margin : 10px;
+ padding: 10px;
+ 
+}
+
+.btn{
+    text-align: center;
+    /* width: 80%; */
+    
+    margin: 20px;
+    height: 40px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+.btn:hover{
+    background-color: red;
+}
+
+#walletList{
+    margin: 20px;
+}
